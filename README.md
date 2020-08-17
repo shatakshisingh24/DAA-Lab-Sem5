@@ -14,7 +14,8 @@ Lab 3: 14 August, 2020
 i)To sort n numbers using bubble sort technique
 ii)Implement recursion for bubble sort
 
-Lab 4: 
->>
-i)
-ii)
+Lab 4: 17 August, 2020
+>>Write an algorithm and program to sort n numbers using selection sort technique:
+i)Using arrays
+ii)Using recursion
+iii) Using recursion and link list
