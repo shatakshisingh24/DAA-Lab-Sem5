@@ -19,3 +19,11 @@ Lab 4: 17 August, 2020
 i)Using arrays
 ii)Using recursion
 iii) Using recursion and link list
+
+Lab 5: 22 August, 2020
+>> Same as 4
+
+Lab 6: 24 August, 2020
+>>Write an algorithm and program to sort n numbers using insertion sort technique:
+i)Using Arrays
+ii) Using Recursion
