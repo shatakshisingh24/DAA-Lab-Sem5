@@ -27,3 +27,6 @@ Lab 6: 24 August, 2020
 >>Write an algorithm and program to sort n numbers using insertion sort technique:
 i)Using Arrays
 ii) Using Recursion
+
+Lab 7: 28 August, 2020
+>>
