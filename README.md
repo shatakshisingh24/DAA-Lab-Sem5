@@ -29,4 +29,9 @@ i)Using Arrays
 ii) Using Recursion
 
 Lab 7: 28 August, 2020
->>
+>> Write an algorithm and program to sort n numbers using Merge sort technique:
+i) Using normal approach i.e. recursion illustrating divide and conquer.
+
+Lab 8: 
+>> Write an algorithm and program to sort n numbers using Merge sort technique:
+ii) Without using recursion.
